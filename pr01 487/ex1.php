@@ -8,7 +8,7 @@
 <body>
     <?php
 
-$num1 = 4;
+$num1 = 4; /*MIAU */
 $num2 = 5;
 
 $sum = $num1 + $num2;
